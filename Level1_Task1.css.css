@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.upper-container {
+    border-radius: 5px;
+   
+    height: 40vh;
+    margin: 4px;
+}
+
+.upper-content {
+    padding: 15px;
+}
+
+.heading {
+    color: #ffffff;
+}
+
+.para {
+    color: #06070d;
+}
+
+.butt {
+    height: 250px;
+    margin: 5px;
+}
+
+.lower-container {
+    background-color: #1b1b1b;
+    padding: 12px;
+    
+    border-radius: 9px;
+    margin-top: 15px;
+    width: 70vw;
+    margin-left: 40px;
+    margin-right: 20px;
+    background-image: linear-gradient(to right, rgb(0, 0, 0) , rgb(1, 0, 70));
+}
+
+.heading1 {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.heading11{
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+.images {
+    margin: 10px;
+    height: 220px;
+    width: 600px;
+}
+
+.para1 {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.para11 {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+}
+
+.bigger-background {
+    background-image: url("grey2.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 15px;
+    width: 70vw;
+    border-radius: 9px;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 20px;
+}
+.bigger-background1 {
+    background-image: linear-gradient(to right, rgb(38, 37, 44) , rgb(37, 40, 80));
+    width: 100vw;
+    padding: 12px;
+    background-size: cover;
+}
+.bigger-background2 {
+    background-image: url("books.jpeg");
+    padding: 7px;
+}
+.bigger-background3 {
+    background-image: url("books.jpeg");
+    padding: 7px;
+}
+
+.margin {
+    margin-top: 30px;
+}
+
+.image {
+    height: 40vh;
+}
+
+.butt1 {
+    background-color: rgb(118, 100, 219);
+    color: #06070d;
+}
+
+.hello {
+    text-align: center;
+}
+.narrow-bg{
+    padding: 3px;
+    width: 100vw;
+    background-image: linear-gradient(to right, rgb(0, 0, 0) , rgb(1, 0, 70));
+}
+.maright{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.box{
+    margin: 4px;
+    background-color: rgb(1, 0, 70);
+    border-radius: 3px;
+    padding: 4px;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.jay{
+    padding: 5px;
+    margin: 5px;
+}
+.jay1{
+    padding: 10px;
+    background-image: linear-gradient(to right, rgb(38, 37, 44) , rgb(37, 40, 80));
+    width: 100vw;
+}
+
+.carousel-container {
+    height: 300px;
+    width: 200px;
+    background-size: cover;
+    margin: 0px;
+}
+.carousel-inner > .item > img {
+    width:240px;
+    height:160px;
+  }
+.margin1{
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-bottom: 19px;
+}
+.techbag{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: rgb(50, 47, 189);
+}
+.box11{
+    margin: 9px;
+    background-image: url("blublabg1.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    padding: 4px;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 50vw;
+}
+.lastbg{
+    background-color: rgb(55, 55, 61);
+    margin: 15px;
+    padding: 10px;
+    border-width: 5px;
+    border-color: #ffffff;
+    height: 40vh;
+}
+.margin11{
+    margin: 10px;
+}
+.container{
+    border-width: 2px;
+    border-color: white;
+    background-color: #1b1b1b;
+    color: darkgrey;
+    width: 10vw;
+}
+.caro{
+    width: 25vw;
+}
+.caro1{
+    width: 50vw;
+}
